@@ -3,5 +3,6 @@ This project is useful for learning sorting algorithms for begineers in the easy
 link:http://127.0.0.1:5500/index.html
 ![interface](https://github.com/dpkumar2001/Sorting_visualizer.yt/assets/113341856/207a9af0-ffa1-4407-9bc2-584a761fc278)
 ![time_complexity](https://github.com/dpkumar2001/Sorting_visualizer.yt/assets/113341856/e8f4c76d-363c-416c-ba20-4a2ad1a25296)
-![seletion](https://github.com/dp![bubble](https://github.com/dpkumar2001/Sorting_visualizer.yt/assets/113341856/fff46f1b-0d15-4984-b8df-0d126830ec19)
-kumar2001/Sorting_visualizer.yt/assets/113341856/8107f8a1-d457-448c-81fb-998aa0de7754)
+
+![seletion](https://github.com/dpkumar2001/Sorting_visualizer.yt/assets/113341856/1fbe0d19-90d3-46b7-83bc-84e5ae502065)
+![bubble](https://github.com/dpkumar2001/Sorting_visualizer.yt/assets/113341856/917f05a0-0553-4c19-9c4d-d3318df8f2ad)
