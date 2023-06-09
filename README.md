@@ -1,7 +1,7 @@
 # Sorting_visualizer.yt
 This project is useful for learning sorting algorithms for begineers in the easy way by visualization, it consist of bubble, selection, insertion, merge, quick sort algorithm and it is useful to better understand about time complexity.
 
-link:http://127.0.0.1:5500/index.html
+link:http://127.0.0.1:5501/index.html
 
 ![interface](https://github.com/dpkumar2001/Sorting_visualizer.yt/assets/113341856/207a9af0-ffa1-4407-9bc2-584a761fc278)
 
